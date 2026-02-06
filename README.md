@@ -3,6 +3,10 @@
 
 This repository contains a collection of hands-on quantum computing projects using Qiskit
 
+## Quantum Computing Module
+
+Description: A collection of exercises and simulations inspired by textbooks and classical examples, focusing on fundamental quantum computing concepts and algorithms.
+
 ## Quantum Random Number Generator (QRNG) 
 
 Description: A demonstration of how quantum circuits can generate truly random numbers using the inherent randomness of quantum states.
