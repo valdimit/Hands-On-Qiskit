@@ -3,6 +3,10 @@
 
 This repository contains a collection of hands-on quantum computing projects using Qiskit
 
+## Hamiltonian Simulation
+
+Description: Ancilla-assisted simulation of Pauli-string Hamiltonians, demonstrating the construction of exact time-evolution operators using basis transformations and parity checks.
+
 ## Quantum Computing Module
 
 Description: A collection of exercises and simulations inspired by textbooks and classical examples, focusing on fundamental quantum computing concepts and algorithms.
